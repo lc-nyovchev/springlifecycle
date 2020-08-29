@@ -1,5 +1,5 @@
 # Spring Lifecycle vs Initializing Bean
-A small project to demonstrate the difference between InitializingBean and Lifecycle
+A small project to demonstrate the difference between `InitializingBean` and `Lifecycle`
 
 
 # Related
