@@ -18,7 +18,7 @@ And we have, defined in a **ServiceConfig** (which imports **InfraConfig**)
 
 - InfraDependencyCheckingService
 
-```$java
+```java
 @Service
 public class InfraDependencyCheckingService {
 
